@@ -1,14 +1,14 @@
-.header{
+.header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    &__logo{
+    &__logo {
         width: 250px;
         img {
             width: 100%;
         }
     }
-    &__official{
+    &__official {
         color: #ffffff;
         font-size: 12px;
         font-weight: 500;
@@ -18,7 +18,7 @@
             font-size: 18px;
         }
     }
-    &__phone{
+    &__phone {
         display: block;
         color: #ffffff;
         font-size: 18px;
